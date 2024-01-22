@@ -1,0 +1,18 @@
+<html>
+
+    <head>
+        <title>
+            Basic Web Page
+        </title>
+    </head>
+
+    <body>
+        <h2>
+            Basic Web Page
+        </h2>
+        <p>
+            This is an example of a basic web page.
+        </p>
+    </body>
+
+</html>
